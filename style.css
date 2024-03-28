@@ -6,8 +6,11 @@ body {
     font-size: 14px;
     margin: 5px;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
 }
 
 .mainobject{
- display: flex
+ 
+
 }
